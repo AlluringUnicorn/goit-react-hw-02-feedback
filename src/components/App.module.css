@@ -1,0 +1,20 @@
+.section{
+    margin-left: 20px;
+}
+
+.btn{
+    margin-right: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    text-transform: capitalize;
+}
+
+.btn:hover{
+    background-color: blueviolet;
+    color: white;
+}
+
